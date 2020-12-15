@@ -1,0 +1,4 @@
+org\sid\DeockerAppApplication.class
+org\sid\dao\UserRepository.class
+org\sid\entities\User.class
+org\sid\controller\Home.class
